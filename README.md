@@ -62,7 +62,7 @@
    ```bash
    python start.py
    ```
-## Video tutorila de uso
+## 🎥 Video tutorila de uso
 
 - https://youtu.be/drmK3zEACRo
    
