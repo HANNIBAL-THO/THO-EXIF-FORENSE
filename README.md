@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png" alt="TODO HACK OFFICIAL Logo" width="300"/>
+  <img src="preview.png" alt="TODO HACK OFFICIAL Logo" width="300"/>
 </p>
 
 # THO EXIF FORENSE | ANALISIS FORENSE
