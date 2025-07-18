@@ -49,7 +49,7 @@
 
 1. **Clona el repositorio**
    ```bash
-   git clone [tu-url-del-repositorio]
+   git clone https://github.com/HANNIBAL-THO/THO-EXIF-FORENSE
    cd THO-EXIF-FORENSE
    ```
 
