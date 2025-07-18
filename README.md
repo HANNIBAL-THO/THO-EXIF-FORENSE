@@ -62,16 +62,13 @@
    ```bash
    python start.py
    ```
+### 🧼 Platforms that Remove EXIF Metadata
 
-## 📁 Estructura del Proyecto
-
-```
-THO-EXIF-FORENSE/
-├── start.py            # Punto de entrada principal de la aplicación
-├── background.py       # Componente de fondo animado estilo red
-├── requirements.txt    # Dependencias de Python
-└── logo.png            # Logo de la aplicación
-```
+| Platform            | Removes EXIF? | Important Notes                                                                |
+|---------------------|----------------|----------------------------------------------------------------------------------|
+| **WhatsApp**        | ✅ Yes         | Compresses and removes all EXIF including location.                             |
+| **Instagram**       | ✅ Yes         | Removes metadata for both posts and stories.                                   |
+| **Facebook**        | ✅ Yes         | Removes EXIF publicly; retains it internally for analysis.                      |
 | **Twitter (X)**     | ✅ Yes         | Removes metadata (allowed partial EXIF until 2020 for JPG).                     |
 | **Telegram**        | 🚫 No          | Keeps EXIF when sent as file; removes when sent as compressed image.           |
 | **Google Photos**   | ✅ Partial     | Removes some EXIF on shared links but keeps it in your private account.         |
@@ -83,6 +80,7 @@ THO-EXIF-FORENSE/
 | **WeTransfer**      | 🚫 No          | Transfers files exactly as-is, with all metadata intact.                        |
 
 ---
+
 ## 🖥️ Cómo Usar la Herramienta
 
 ### 1. Análisis Básico de Imágenes
