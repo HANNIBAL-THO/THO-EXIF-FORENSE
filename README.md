@@ -122,11 +122,7 @@
 
 ## 📸 Capturas de Pantalla
 
-*Se agregarán capturas de pantalla en futuras actualizaciones*
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Siéntete libre de enviar un Pull Request con tus mejoras.
+*Se agregarán capturas de ejemplos*
 
 ## 📄 Licencia
 
