@@ -27,6 +27,10 @@
 - 📱 **Integración con la Bandeja del Sistema** - Minimiza a la bandeja del sistema para un acceso rápido
 - 🌐 **Soporte Multiformato** - Compatible con los formatos de imagen más comunes
 
+## Video tutorila de uso
+
+- 
+
 ## 📋 Formatos de Imagen Soportados
 
 | Formato | Descripción |
