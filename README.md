@@ -3,7 +3,7 @@
   <img src="logo.png" alt="TODO HACK OFFICIAL Logo" width="300"/>
 </p>
 
-# TODO HACK OFFICIAL
+# THO EXIF FORENSE | ANALISIS FORENSE
 
 ![Python](https://img.shields.io/badge/python-3.7+-yellow)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20Linux%20%7C%20macOS-blue)
@@ -11,7 +11,7 @@
 
 > **Herramienta Profesional de Análisis Forense de Metadatos EXIF con Interfaz de Estilo Hacker**
 
-**TODO HACK OFFICIAL** es una potente herramienta de análisis forense digital diseñada para examinar, extraer y gestionar metadatos EXIF de imágenes. Desarrollada con Python y PySide6, ofrece una interfaz moderna con temática oscura y acentos verdes, inspirada en el estilo hacker, ideal para análisis forense y auditorías de privacidad.
+**THO EXIF FORENSE** es una potente herramienta de análisis forense digital diseñada para examinar, extraer y gestionar metadatos EXIF de imágenes. Desarrollada con Python y PySide6, ofrece una interfaz moderna con temática oscura y acentos verdes, inspirada en el estilo hacker, ideal para análisis forense y auditorías de privacidad.
 
 ## 🚀 Características Principales
 
