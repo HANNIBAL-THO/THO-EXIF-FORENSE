@@ -72,7 +72,17 @@ THO-EXIF-FORENSE/
 ├── requirements.txt    # Dependencias de Python
 └── logo.png            # Logo de la aplicación
 ```
+| **Twitter (X)**     | ✅ Yes         | Removes metadata (allowed partial EXIF until 2020 for JPG).                     |
+| **Telegram**        | 🚫 No          | Keeps EXIF when sent as file; removes when sent as compressed image.           |
+| **Google Photos**   | ✅ Partial     | Removes some EXIF on shared links but keeps it in your private account.         |
+| **iCloud**          | 🚫 No          | Retains full EXIF when uploading from Apple devices.                            |
+| **Discord**         | ✅ Yes         | Removes metadata from previews; sometimes keeps it in file downloads.           |
+| **LinkedIn**        | ✅ Yes         | Strips metadata from profile and post images.                                   |
+| **TikTok**          | ✅ Yes         | Thumbnails and exported content are EXIF-clean.                                 |
+| **Reddit**          | ✅ Yes         | Removes all EXIF from uploaded images.                                          |
+| **WeTransfer**      | 🚫 No          | Transfers files exactly as-is, with all metadata intact.                        |
 
+---
 ## 🖥️ Cómo Usar la Herramienta
 
 ### 1. Análisis Básico de Imágenes
