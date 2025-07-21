@@ -149,7 +149,7 @@ class MetadataViewer(QWidget):
         logo_label.setPixmap(logo_pixmap)
         logo_label.setStyleSheet("border: none;")
 
-        title_label = QLabel("THO EXIF FORENSE | BY HANNIBAL THO| DISCORD .gg/8Ntx8cDSGT")
+        title_label = QLabel("THO EXIF FORENSE | BY HANNIBAL THO| DISCORD discord.gg/fQMdCdTT")
         title_label.setStyleSheet("color: #39FF14; font-size: 16px; font-weight: bold; border: none;")
 
         btn_style = """
